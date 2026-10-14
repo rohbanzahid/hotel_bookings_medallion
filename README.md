@@ -6,7 +6,7 @@ hotel bookings dataset (about 119,000 bookings from two hotels).
 ## Status
 - [x] Extract: download the raw file
 - [x] Bronze: load raw data unchanged
-- [ ] Silver: clean and standardize
+- [x] Silver: clean and standardize
 - [ ] Gold: business-ready tables
 - [ ] Data quality tests
 - [ ] One-command run
