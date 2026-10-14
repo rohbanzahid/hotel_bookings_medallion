@@ -1,0 +1,5 @@
+# data files are rebuilt by the pipeline, so they stay out of Git
+data/
+*.duckdb
+__pycache__/
+.venv/
